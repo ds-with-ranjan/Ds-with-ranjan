@@ -7,7 +7,7 @@
 
 ### 🧠 About Me
 
-- 🎓 2nd Year *B.Sc. Data Science* student at *Guru Nanak Institute of Technology*.
+- 🎓 3rd Year *B.Sc. Data Science* student at *Guru Nanak Institute of Technology*.
 - 💻 Passionate about *Python* and *AI/ML*.
 - 📊 Exploring the world of *Data Engineering* and real-world applications of machine learning.
 - 🌱 Currently learning and building projects using *Jupyter Notebook, **pandas, **NumPy*, and more.
